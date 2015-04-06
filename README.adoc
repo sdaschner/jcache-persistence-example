@@ -2,3 +2,5 @@
 
 An example JavaEE 7 application with Infinispan as cache provider and MapDB as persistence provider.
 Persists the cache to a file by using only JSR 107 standard features.
+
+Tested with Wildfly 8.2 and Infinispan 7.
